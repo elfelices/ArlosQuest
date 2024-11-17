@@ -10,6 +10,9 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+# PlayMaker folder
+/[Pp]lay[Mm]aker
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -70,3 +73,24 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+*.meta
+/Assets/2DxFX
+/Assets/DOTweenPlaymakerActions
+/Assets/DoubleL
+/Assets/DreamGrid
+/Assets/Easy Character Movement
+/Assets/EverydayMotionPack
+/Assets/ExplosiveLLC
+/Assets/Fantasy Adventure Environment
+/Assets/Gizmos
+/Assets/HighlightPlusBundle
+/Assets/JMO Assets
+/Assets/PlayMaker
+/Assets/Plugins
+/Assets/Resources
+/Assets/Layer Lab
+/Assets/net.fabrejean
+/Assets/PlayMaker Cinemachine
+/Assets/PlayMaker Utils
+/Assets/PSXEffects
+/Assets/SuburbNeighborhoodHousePack
