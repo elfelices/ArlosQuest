@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - AimTarget
+  - Enemy
+  - tweenArlo
+  - tweenDarunir
+  - tweenCer
+  - tweenEnemyA
   layers:
   - Default
   - TransparentFX
