@@ -10,6 +10,8 @@ TagManager:
   - tweenDarunir
   - tweenCer
   - tweenEnemyA
+  - FxTemporaire
+  - Environment
   layers:
   - Default
   - TransparentFX
@@ -19,7 +21,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Player
   - 
   - 
   - 
