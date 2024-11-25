@@ -64,7 +64,8 @@ MonoBehaviour:
     farScale: 0.5
   scaleWithFov: 0
   defaultFov: 60
-  fovCamera: {fileID: 0}
+  fovCamera: {fileID: 1035369031935171469, guid: e6bb5a7ea412c4d4dbc221bff9dc3554,
+    type: 3}
   cameraOverride: {fileID: 0}
   enableNumber: 1
   number: 123
@@ -242,8 +243,8 @@ MonoBehaviour:
     speed: 10
     drag: 0
   enableStartRotation: 0
-  minRotation: -4
-  maxRotation: 4
+  minRotation: 0
+  maxRotation: 0
   rotationRandomFlip: 0
   enableRotateOverTime: 0
   minRotationSpeed: -15
@@ -322,10 +323,11 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  enableOrthographicScaling: 1
+  enableOrthographicScaling: 0
   defaultOrthographicSize: 5
   maxOrthographicSize: 1.5
-  orthographicCamera: {fileID: 0}
+  orthographicCamera: {fileID: 1035369031935171469, guid: e6bb5a7ea412c4d4dbc221bff9dc3554,
+    type: 3}
   spamGroup: 
   enableCombination: 0
   combinationSettings:

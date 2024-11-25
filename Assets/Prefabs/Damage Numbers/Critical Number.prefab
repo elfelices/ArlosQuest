@@ -242,8 +242,8 @@ MonoBehaviour:
     speed: 10
     drag: 0
   enableStartRotation: 0
-  minRotation: -4
-  maxRotation: 4
+  minRotation: 0
+  maxRotation: 0
   rotationRandomFlip: 0
   enableRotateOverTime: 0
   minRotationSpeed: -15

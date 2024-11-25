@@ -12,6 +12,9 @@ TagManager:
   - tweenEnemyA
   - FxTemporaire
   - Environment
+  - tweenFatigueArlo
+  - tweenFatigueDarunir
+  - tweenFatigueCer
   layers:
   - Default
   - TransparentFX
