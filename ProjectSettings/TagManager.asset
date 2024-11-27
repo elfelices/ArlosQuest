@@ -15,6 +15,7 @@ TagManager:
   - tweenFatigueArlo
   - tweenFatigueDarunir
   - tweenFatigueCer
+  - FadeOut
   layers:
   - Default
   - TransparentFX
